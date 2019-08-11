@@ -1,0 +1,5 @@
+node i -D nodemon
+-D for dev dependency
+
+And create dev start script in package.json
+To run: npm run dev

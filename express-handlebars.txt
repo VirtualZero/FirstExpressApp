@@ -1,0 +1,3 @@
+Express JS templating engine
+
+npm install express-handlebars
