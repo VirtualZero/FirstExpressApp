@@ -28,7 +28,7 @@ app.use(express.static(path.join(__dirname, 'public')))
 // Members API Routes
 app.use('/api/members', require('./routes/api/members'))
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 
 app.listen(PORT, (err) => {
     if (err) throw err;

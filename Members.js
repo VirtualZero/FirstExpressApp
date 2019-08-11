@@ -7,19 +7,19 @@ const members = [
     },
     {
         id: 2,
-        name: 'Eric Fart',
+        name: 'Eric Franks',
         email: 'Eric@yahoo.com',
         status: 'active'
     },
     {
         id: 3,
-        name: 'Woobis Hough',
-        email: 'woob@hough.com',
+        name: 'Junior Hough',
+        email: 'jr@hough.com',
         status: 'active'
     },
     {
         id: 4,
-        name: 'Jordyn hough',
+        name: 'Jordyn Sample',
         email: 'jordyn@gmail.com',
         status: 'inactive'
     }

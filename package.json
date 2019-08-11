@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VirtualZero/FirstExpressApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VirtualZero/FirstExpressApp/issues"
+  },
+  "homepage": "https://github.com/VirtualZero/FirstExpressApp#readme"
 }
