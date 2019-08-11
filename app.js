@@ -18,7 +18,7 @@ app.use(express.urlencoded({extended: false}))
 
 // Render handlebars view
 app.get('/', (req, res) => res.render('index', {
-    title: 'Member App',
+    title: 'Member App/API',
     members
 }))
 
